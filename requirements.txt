@@ -10,3 +10,4 @@ torch==2.1.2
 sentence-transformers==2.6.1
 numpy==1.26.4
 requests==2.31.0
+pypdf
