@@ -1,4 +1,4 @@
-﻿# KiTE GPT Web Application 🎓🤖
+# KiTE GPT Web Application 🎓🤖
 
 An intelligent campus AI assistant built for the **KGiSL Institute of Technology (KiTE)** community.
 
@@ -10,26 +10,26 @@ KiTE GPT provides an interactive conversational assistant to help engineering st
 ## 🛠️ Tech Stack
 - **Backend:** Python (Flask / FastAPI)
 - **Frontend:** Responsive HTML5 / CSS3 / Jinja2 templates
-- **Cloud Hosting:** Render Cloud Platform (ender.yaml)
+- **Cloud Hosting:** Render Cloud Platform (`render.yaml`)
 
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
 - Python 3.10+
-- Virtual environment (env)
+- Virtual environment (`venv`)
 
 ### 2. Installation
-`ash
+```bash
 git clone https://github.com/smnk2006/kite_gpt_app.git
 cd kite_gpt_app
 pip install -r requirements.txt
-`
+```
 
 ### 3. Run Locally
-`ash
+```bash
 python app.py
-`
-Open your browser and navigate to http://localhost:5000.
+```
+Open your browser and navigate to `http://localhost:5000`.
 
 ---
 *Maintained by KiTE Engineering Community.*
